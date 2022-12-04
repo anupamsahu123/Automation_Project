@@ -1,7 +1,6 @@
 # Automation_Project
 Upgard_assignment
 
-Improvement Assignment
 The following operations are carried out by this script:
 1) Updating the packaging information
 2) If the apache2 package is not already installed, immediately install it.
